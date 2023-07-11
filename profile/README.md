@@ -1,5 +1,19 @@
-## Hi there 👋
+# Green Energy
 
+# Guidelines
+TBD
+## Branching
+TBD
+## Merging
+TBD
+## Committing
+TBD
+## Issues
+TBD
+# Kontakt
+TBD
+# ???
+???
 <!--
 
 **Here are some ideas to get you started:**
